@@ -1,0 +1,17 @@
+{
+    "Baseline (No Noise)": {
+        "accuracy": 0.9150000214576721
+    },
+    "Medium Thermal Noise (25dB)": {
+        "accuracy": 0.9150000214576721
+    },
+    "Heavy Thermal Noise (10dB)": {
+        "accuracy": 0.9150000214576721
+    },
+    "EMI Burst (1% Prob)": {
+        "accuracy": 0.9150000214576721
+    },
+    "Extreme Jitter (5dB)": {
+        "accuracy": 0.9137499928474426
+    }
+}
